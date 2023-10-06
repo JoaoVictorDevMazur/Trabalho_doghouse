@@ -85,7 +85,7 @@ body{
 
 
 .img1{
-    background-image:    url(img/caminhar-faz-bem.webp);
+    background-image:    url(/img/caminhar-faz-bem.webp);
     background-size:cover;
     background-repeat: no-repeat;
     width: 70%;
@@ -129,7 +129,7 @@ body{
 
 
 .img2{
-    background-image: url(./img/Captura\ de\ tela\ 2023-09-11\ 194027.jpg);
+    background-image: url(/img/Captura\ de\ tela\ 2023-09-11\ 194027.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     float: right;
@@ -172,7 +172,7 @@ body{
 
 
 .img3{
-    background-image: url(./img/img3.jpg);
+    background-image: url(/img/img3.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     float: right; 
@@ -253,7 +253,7 @@ body{
 
 .barraum{
     
-    background-image: url(./img/stock-photo-abstract-background-light-blue-polygonal-pattern.jpg);
+    background-image: url(/img/stock-photo-abstract-background-light-blue-polygonal-pattern.jpg);
     width: 99%;
     height: 250px;
     margin-top: 19px;
