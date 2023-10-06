@@ -3,7 +3,7 @@ body{
     padding-top: 10px;
     background-color:aliceblue;
     display: block;
-    background-image: url(./img/fundo.avif);
+    background-image: url(/img/fundo.avif);
     
 }
 .nave{
